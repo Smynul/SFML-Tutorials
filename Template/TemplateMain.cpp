@@ -1,3 +1,9 @@
+/**
+    @Author Asif Ahmed
+    @Website http://quickgrid.wordpress.com
+    @Description Sample template for SFML Project
+*/
+
 #include<SFML/Graphics.hpp>
 #include<iostream>
 using namespace sf;
